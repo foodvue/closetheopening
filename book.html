@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <!-- SEO Meta -->
+  <title>27 Psychological Tricks People Use on You — Close The Opening</title>
+  <meta name="description" content="A reference guide to the pressure tactics used in everyday conversations—and the responses that end them cleanly.">
+  <meta name="keywords" content="psychological tricks, manipulation tactics, boundary setting, conversation pressure, social pressure tactics">
+  <link rel="canonical" href="https://closetheopening.com/book.html">
+  
+  <!-- Open Graph -->
+  <meta property="og:type" content="book">
+  <meta property="og:url" content="https://closetheopening.com/book.html">
+  <meta property="og:title" content="27 Psychological Tricks People Use on You">
+  <meta property="og:description" content="A reference guide to the pressure tactics used in everyday conversations—and the responses that end them cleanly.">
+  <meta property="og:image" content="https://closetheopening.com/og-image.png">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="27 Psychological Tricks People Use on You">
+  <meta name="twitter:description" content="A reference guide to the pressure tactics used in everyday conversations—and the responses that end them cleanly.">
+  <meta name="twitter:image" content="https://closetheopening.com/og-image.png">
+  
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link rel="icon" type="image/png" href="favicon.png">
+  
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+  
+  <!-- Styles -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Header -->
+  <header class="site-header">
+    <div class="container container--wide">
+      <a href="index.html" class="site-logo"><span class="logo-accent">Close</span> The Opening</a>
+      <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+      <nav class="site-nav" aria-label="Main navigation">
+        <a href="book.html" class="active">Book</a>
+        <a href="about.html">About</a>
+        <a href="test.html" class="btn btn--primary nav-cta">Take the Assessment</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main>
+    <div class="container">
+      
+      <!-- Hero -->
+      <div class="book-hero">
+        <h1>27 Psychological Tricks People Use on You</h1>
+        <p class="subhead">The patterns. The psychology. The responses.</p>
+      </div>
+      
+      <!-- Content -->
+      <div class="book-content">
+        
+        <section>
+          <h2>What This Is</h2>
+          <p>A reference guide to the most common pressure tactics in everyday conversations.</p>
+          <p>Each tactic: what it looks like, why it works, how to respond—without escalation or over-explanation.</p>
+        </section>
+        
+        <section>
+          <h2>Who It's For</h2>
+          <p>People who notice—after the conversation—that they gave ground they didn't intend to give.</p>
+        </section>
+        
+        <section>
+          <h2>Who It's Not For</h2>
+          <p>Anyone looking for scripts to manipulate others.</p>
+        </section>
+        
+        <section>
+          <h2>What Makes It Different</h2>
+          <p>No therapy framing. No empowerment language. No "winning" conversations.</p>
+          <p>Just pattern recognition and clean responses.</p>
+        </section>
+        
+      </div>
+      
+      <!-- CTA -->
+      <div class="book-cta-section">
+        <a href="#" class="btn btn--primary btn--large" id="buy-book-btn">Available on Amazon</a>
+      </div>
+      
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="container container--wide">
+      <nav class="footer-nav">
+        <a href="test.html">Assessment</a>
+        <a href="book.html">Book</a>
+        <a href="about.html">About</a>
+        <a href="privacy.html">Privacy</a>
+      </nav>
+      <p class="footer-text">&copy; 2025 Close The Opening</p>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script>
+    const navToggle = document.querySelector('.nav-toggle');
+    const siteNav = document.querySelector('.site-nav');
+    
+    navToggle.addEventListener('click', () => {
+      const isOpen = navToggle.classList.toggle('active');
+      siteNav.classList.toggle('active');
+      navToggle.setAttribute('aria-expanded', isOpen);
+    });
+    
+    document.getElementById('buy-book-btn').addEventListener('click', () => {
+      console.log('[Analytics] book_click', { source: 'book_page' });
+    });
+  </script>
+</body>
+</html>
