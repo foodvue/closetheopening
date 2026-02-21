@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://closetheopening.com/</loc><lastmod>2026-02-21</lastmod><priority>1.0</priority></url>
+  <url><loc>https://closetheopening.com/test.html</loc><lastmod>2026-02-21</lastmod><priority>0.9</priority></url>
+  <url><loc>https://closetheopening.com/book.html</loc><lastmod>2026-02-21</lastmod><priority>0.9</priority></url>
+  <url><loc>https://closetheopening.com/blog.html</loc><lastmod>2026-02-21</lastmod><priority>0.7</priority></url>
+  <url><loc>https://closetheopening.com/about.html</loc><lastmod>2026-02-21</lastmod><priority>0.5</priority></url>
+
+  <!-- Entry Point Concept Pages -->
+  <url><loc>https://closetheopening.com/entry-points/</loc><lastmod>2026-02-21</lastmod><priority>0.9</priority></url>
+  <url><loc>https://closetheopening.com/entry-points/the-explainer.html</loc><lastmod>2026-02-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://closetheopening.com/entry-points/the-nice-one.html</loc><lastmod>2026-02-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://closetheopening.com/entry-points/the-fixer.html</loc><lastmod>2026-02-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://closetheopening.com/entry-points/the-performer.html</loc><lastmod>2026-02-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://closetheopening.com/entry-points/the-avoider.html</loc><lastmod>2026-02-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://closetheopening.com/entry-points/the-loyal-one.html</loc><lastmod>2026-02-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://closetheopening.com/entry-points/the-rationalizer.html</loc><lastmod>2026-02-21</lastmod><priority>0.8</priority></url>
+
+  <!-- Blog Articles -->
+  <url><loc>https://closetheopening.com/blog/why-you-over-explain.html</loc><lastmod>2026-02-21</lastmod><priority>0.7</priority></url>
+  <url><loc>https://closetheopening.com/blog/signs-someone-is-guilt-tripping-you.html</loc><lastmod>2026-02-21</lastmod><priority>0.7</priority></url>
+  <url><loc>https://closetheopening.com/blog/how-to-set-boundaries-without-feeling-guilty.html</loc><lastmod>2026-02-21</lastmod><priority>0.7</priority></url>
+  <url><loc>https://closetheopening.com/blog/how-to-respond-to-emotional-manipulation.html</loc><lastmod>2026-02-21</lastmod><priority>0.7</priority></url>
+
+  <url><loc>https://closetheopening.com/privacy.html</loc><lastmod>2026-02-21</lastmod><priority>0.2</priority></url>
+</urlset>

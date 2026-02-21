@@ -1,0 +1,7 @@
+# Close The Opening - robots.txt
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://closetheopening.com/sitemap.xml
