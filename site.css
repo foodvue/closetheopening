@@ -152,14 +152,14 @@ em { font-style: italic; }
 .site-nav a.active { color: var(--text); }
 
 .nav-cta {
-  background: var(--text) !important;
-  color: var(--bg) !important;
+  background: #D4AF37 !important;
+  color: #111 !important;
   padding: 0.5rem 1.25rem !important;
   border-radius: 2px;
-  font-weight: 500 !important;
+  font-weight: 600 !important;
 }
 
-.nav-cta:hover { opacity: 0.88 !important; color: var(--bg) !important; }
+.nav-cta:hover { background: #BF9B30 !important; color: #111 !important; }
 
 .nav-toggle { display: none; background: none; border: none; cursor: pointer; padding: 0.25rem; }
 .nav-toggle span { display: block; width: 20px; height: 1.5px; background: var(--text); margin: 4px 0; transition: 0.2s; }
@@ -184,6 +184,23 @@ em { font-style: italic; }
 }
 
 .btn-primary:hover { opacity: 0.88; transform: translateY(-1px); color: var(--bg); }
+
+.btn-gold {
+  display: inline-block;
+  background: #D4AF37;
+  color: #111;
+  font-family: var(--sans);
+  font-size: 0.875rem;
+  font-weight: 600;
+  padding: 0.875rem 2rem;
+  border-radius: 2px;
+  text-decoration: none;
+  letter-spacing: 0.02em;
+  transition: all 0.2s;
+  border: none;
+  cursor: pointer;
+}
+.btn-gold:hover { background: #BF9B30; transform: translateY(-1px); color: #111; }
 
 .btn-accent {
   display: inline-block;
@@ -1168,6 +1185,7 @@ em { font-style: italic; }
 
 .share-btn--x:hover { border-color: #000; color: #000; }
 .share-btn--fb:hover { border-color: #1877F2; color: #1877F2; }
+.share-btn--li:hover { border-color: #0A66C2; color: #0A66C2; }
 .share-btn--copy.copied {
   border-color: #7BC47F;
   color: #7BC47F;
@@ -1975,6 +1993,24 @@ p + p { margin-top: 1rem; }
 }
 
 .btn-primary:hover { opacity: 0.88; transform: translateY(-1px); }
+
+.btn-gold {
+  display: inline-block;
+  background: #D4AF37;
+  color: #111;
+  font-family: var(--sans);
+  font-size: 0.875rem;
+  font-weight: 600;
+  padding: 0.875rem 2rem;
+  border-radius: 2px;
+  text-decoration: none;
+  letter-spacing: 0.02em;
+  transition: all 0.2s;
+  border: none;
+  cursor: pointer;
+}
+
+.btn-gold:hover { background: #BF9B30; transform: translateY(-1px); color: #111; }
 
 .btn-ghost {
   display: inline-block;
