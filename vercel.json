@@ -1,0 +1,32 @@
+{
+  "redirects": [
+    { "source": "/book.html", "destination": "https://mjcalloway.com/books/close-the-opening/", "permanent": true },
+    { "source": "/book", "destination": "https://mjcalloway.com/books/close-the-opening/", "permanent": true },
+    { "source": "/test.html", "destination": "https://mjcalloway.com/books/close-the-opening/assessment", "permanent": true },
+    { "source": "/test", "destination": "https://mjcalloway.com/books/close-the-opening/assessment", "permanent": true },
+    { "source": "/entry-points", "destination": "https://mjcalloway.com/books/close-the-opening/entry-points/", "permanent": true },
+    { "source": "/entry-points/", "destination": "https://mjcalloway.com/books/close-the-opening/entry-points/", "permanent": true },
+    { "source": "/entry-points/index.html", "destination": "https://mjcalloway.com/books/close-the-opening/entry-points/", "permanent": true },
+    { "source": "/entry-points/the-explainer.html", "destination": "https://mjcalloway.com/books/close-the-opening/entry-points/the-explainer", "permanent": true },
+    { "source": "/entry-points/the-nice-one.html", "destination": "https://mjcalloway.com/books/close-the-opening/entry-points/the-nice-one", "permanent": true },
+    { "source": "/entry-points/the-fixer.html", "destination": "https://mjcalloway.com/books/close-the-opening/entry-points/the-fixer", "permanent": true },
+    { "source": "/entry-points/the-performer.html", "destination": "https://mjcalloway.com/books/close-the-opening/entry-points/the-performer", "permanent": true },
+    { "source": "/entry-points/the-avoider.html", "destination": "https://mjcalloway.com/books/close-the-opening/entry-points/the-avoider", "permanent": true },
+    { "source": "/entry-points/the-loyal-one.html", "destination": "https://mjcalloway.com/books/close-the-opening/entry-points/the-loyal-one", "permanent": true },
+    { "source": "/entry-points/the-rationalizer.html", "destination": "https://mjcalloway.com/books/close-the-opening/entry-points/the-rationalizer", "permanent": true },
+    { "source": "/blog.html", "destination": "https://mjcalloway.com/articles/", "permanent": true },
+    { "source": "/blog", "destination": "https://mjcalloway.com/articles/", "permanent": true },
+    { "source": "/blog/why-you-over-explain.html", "destination": "https://mjcalloway.com/articles/why-you-over-explain", "permanent": true },
+    { "source": "/blog/why-silence-feels-like-pressure.html", "destination": "https://mjcalloway.com/articles/why-silence-feels-like-pressure", "permanent": true },
+    { "source": "/blog/signs-someone-is-guilt-tripping-you.html", "destination": "https://mjcalloway.com/articles/signs-someone-is-guilt-tripping-you", "permanent": true },
+    { "source": "/blog/how-to-set-boundaries-without-feeling-guilty.html", "destination": "https://mjcalloway.com/articles/how-to-set-boundaries-without-feeling-guilty", "permanent": true },
+    { "source": "/blog/how-to-respond-to-emotional-manipulation.html", "destination": "https://mjcalloway.com/articles/how-to-respond-to-emotional-manipulation", "permanent": true },
+    { "source": "/blog/why-you-keep-solving-problems-that-arent-yours.html", "destination": "https://mjcalloway.com/articles/why-you-keep-solving-problems-that-arent-yours", "permanent": true },
+    { "source": "/about.html", "destination": "https://mjcalloway.com/about", "permanent": true },
+    { "source": "/about", "destination": "https://mjcalloway.com/about", "permanent": true },
+    { "source": "/privacy.html", "destination": "https://mjcalloway.com/privacy", "permanent": true },
+    { "source": "/privacy", "destination": "https://mjcalloway.com/privacy", "permanent": true },
+    { "source": "/", "destination": "https://mjcalloway.com/books/close-the-opening/", "permanent": true },
+    { "source": "/index.html", "destination": "https://mjcalloway.com/books/close-the-opening/", "permanent": true }
+  ]
+}
